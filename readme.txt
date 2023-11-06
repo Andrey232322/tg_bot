@@ -1,0 +1,1 @@
+fade-brightness,volume,off ad time-off
